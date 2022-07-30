@@ -4,8 +4,8 @@ services:
     environment:
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=188.40.209.96
-      - PASSWORD=aA@@135792468
+      - WG_HOST=VPS IP SERVER 
+      - PASSWORD=WEB PANEL PASSWORD 
       - WG_PORT=58580
       - WG_DEFAULT_ADDRESS=10.8.0.x
       - WG_DEFAULT_DNS=1.1.1.1
